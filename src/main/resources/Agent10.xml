@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cfg>
+    <NodeAgentId>10</NodeAgentId>
+    <Neighbours>
+        <NewNeighbour>
+            <AgentID>9</AgentID>
+            <PathWeight>2</PathWeight>
+        </NewNeighbour>
+        <NewNeighbour>
+            <AgentID>11</AgentID>
+            <PathWeight>1</PathWeight>
+        </NewNeighbour>
+        <NewNeighbour>
+            <AgentID>12</AgentID>
+            <PathWeight>11</PathWeight>
+        </NewNeighbour>
+    </Neighbours>
+    <initiator>false</initiator>
+    <soughAfter>false</soughAfter>
+</cfg>

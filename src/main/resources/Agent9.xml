@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cfg>
+    <NodeAgentId>9</NodeAgentId>
+    <Neighbours>
+        <NewNeighbour>
+            <AgentID>6</AgentID>
+            <PathWeight>17</PathWeight>
+        </NewNeighbour>
+        <NewNeighbour>
+            <AgentID>7</AgentID>
+            <PathWeight>4</PathWeight>
+        </NewNeighbour>
+        <NewNeighbour>
+            <AgentID>8</AgentID>
+            <PathWeight>20</PathWeight>
+        </NewNeighbour>
+        <NewNeighbour>
+            <AgentID>10</AgentID>
+            <PathWeight>2</PathWeight>
+        </NewNeighbour>
+        <NewNeighbour>
+            <AgentID>11</AgentID>
+            <PathWeight>20</PathWeight>
+        </NewNeighbour>
+        <NewNeighbour>
+            <AgentID>12</AgentID>
+            <PathWeight>1</PathWeight>
+        </NewNeighbour>
+    </Neighbours>
+    <initiator>false</initiator>
+    <soughAfter>false</soughAfter>
+</cfg>
