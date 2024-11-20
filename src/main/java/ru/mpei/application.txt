@@ -1,0 +1,2 @@
+-agents
+Agent1:ru.mpei.NodeAgent("Agent1.xml");Agent2:ru.mpei.NodeAgent("Agent2.xml");Agent3:ru.mpei.NodeAgent("Agent3.xml");Agent4:ru.mpei.NodeAgent("Agent4.xml");Agent5:ru.mpei.NodeAgent("Agent5.xml");Agent6:ru.mpei.NodeAgent("Agent6.xml");Agent7:ru.mpei.NodeAgent("Agent7.xml");Agent8:ru.mpei.NodeAgent("Agent8.xml");Agent9:ru.mpei.NodeAgent("Agent9.xml");Agent10:ru.mpei.NodeAgent("Agent10.xml");Agent11:ru.mpei.NodeAgent("Agent11.xml");Agent12:ru.mpei.NodeAgent("Agent12.xml")
